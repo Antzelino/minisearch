@@ -3,6 +3,7 @@ Search words/phrases from documents and sort by relevance
 
 ## Compile
 `make` or `make all`
+clean with `make clean`
 
 ## Run
 `./minisearch -i inputDocFile [-k K]`  
